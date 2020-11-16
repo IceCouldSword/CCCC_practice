@@ -2,6 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << "hello world" << endl;
-    system("pause");
+    cout << "123" << endl;
 }
